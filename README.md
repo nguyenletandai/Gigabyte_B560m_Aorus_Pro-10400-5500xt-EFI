@@ -127,6 +127,11 @@ EFI
 
 
 
+// Question:
+hi, thanks for your EFI file, it help me to boot hackintosh successfully.
+but i have a problem that my hackintosh have no sound, do you know how to fix that, help me.
+thanks again.
+
 
 
 
